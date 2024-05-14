@@ -51,25 +51,25 @@ body {
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 12%;
 }
 
 .escola{
     background-image: linear-gradient(#ff0000,#0f0059);
     color:white;
-    display: flex;
+display: flex;
     justify-content: center;
     align-items: center;
     padding: 60px;
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width: 20%;
 }
 
 
 .escola-titulo{
-    padding: 24px 0;
+    padding: 10%;
 }
 
 .estudante{
